@@ -10,7 +10,7 @@
     name: jenkins
     description: jenkins repository
     baseurl: http://pkg.jenkins.io/redhat
-    enables: no
+    enabled: no
     gpgcheck: yes
 
 - name: Install Jenkins
